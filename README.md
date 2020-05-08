@@ -1,2 +1,3 @@
 # template-argocd-test
-This is an Argo CD Template that will enable CD deployment of your Docker images into Test, Staging namespaces
+
+The starter kit has been moved to https://github.com/IBM/template-argocd-gitops
